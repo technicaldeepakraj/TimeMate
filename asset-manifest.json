@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TimeMate/static/css/main.828e20f6.css",
+    "main.js": "/TimeMate/static/js/main.f913fb7d.js",
+    "index.html": "/TimeMate/index.html",
+    "main.828e20f6.css.map": "/TimeMate/static/css/main.828e20f6.css.map",
+    "main.f913fb7d.js.map": "/TimeMate/static/js/main.f913fb7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828e20f6.css",
+    "static/js/main.f913fb7d.js"
+  ]
+}
